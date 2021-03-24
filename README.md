@@ -1,0 +1,2 @@
+# vsjtuete
+Verottajalle ilmoitettavien julkisten elinkeinotukien muuntaminen koneluettavaan muotoon
